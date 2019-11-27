@@ -30,6 +30,6 @@
      - try new timing ideas, maybe basket strategy is better than two-pair alone, idk
      
      - optimize strategy parameters AFTER solving practicality issues, do NOT do this before finalizing assumptions and strategy
-     
+  - this linear regression setup limits us from open market trading. Maybe try different algo for the first half hour trading as there should be more liquidity then.
   
 ## Remember to update PROJECT and README when doing anything useful.
