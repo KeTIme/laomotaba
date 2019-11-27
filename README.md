@@ -32,3 +32,4 @@
      - optimize strategy parameters AFTER solving practicality issues, do NOT do this before finalizing assumptions and strategy
      
   
+## Remember to update PROJECT and README when doing anything useful.
