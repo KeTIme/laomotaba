@@ -1,8 +1,8 @@
 # laomotaba
-Project notebook is a q/py notebook, the one we are going to submit
-EDA notebook is a py only notebook used for exploratory analysis to make life easier.
+- Project notebook is a q/py notebook, the one we are going to submit
+- EDA notebook is a py only notebook used for exploratory analysis to make life easier.
 
-After doing anything meaningful, document everything in both notebooks. it is crucial to have good markdown cells on project.ipynb to get a good grade
+- After doing anything meaningful, document everything in both notebooks. it is crucial to have good markdown cells on project.ipynb to get a good grade
 
 ## current progress:
   -able to download data through q query
