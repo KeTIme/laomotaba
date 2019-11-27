@@ -5,13 +5,13 @@
 - After doing anything meaningful, document everything in both notebooks. it is crucial to have good markdown cells on project.ipynb to get a good grade
 
 ## current progress:
-  -able to download data through q query
+  - able to download data through q query
   
-  -select pairs by correlation
+  - select pairs by correlation
   
-  -cointegration test to further sift through pairs
+  - cointegration test to further sift through pairs
   
-  -rudimentary pair strategy back testing
+  - rudimentary pair strategy back testing
   
 ## TODO:
   
