@@ -4,7 +4,7 @@
 
 - After doing anything meaningful, document everything in both notebooks. it is crucial to have good markdown cells on project.ipynb to get a good grade
 
-## current progress:
+## current progress: selected what is applicaple from yjys previous hard work and made them understandable to people other than himself.
   - able to download data through q query
   
   - select pairs by correlation
